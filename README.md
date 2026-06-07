@@ -1,2 +1,2 @@
 # Protoboards
-Series of Semi Permanent Solderable Prototyping Boards 
+Series of Permanent Solderable Prototyping Boards
